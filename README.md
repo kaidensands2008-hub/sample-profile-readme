@@ -36,12 +36,6 @@
 - 🌐 Learn more about technology.
 - 🏆 Build a portfolio of my work.
 
-## 📊 GitHub Stats
-
-![Kaiden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaidensands2008&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaidensands2008&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 🌐 Find Me Online
 
 [![GitHub Profile](https://img.shields.io/badge/Visit_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaidensands2008)
